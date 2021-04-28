@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react
+          Changed commits from feature branch!
         </a>
       </header>
     </div>
